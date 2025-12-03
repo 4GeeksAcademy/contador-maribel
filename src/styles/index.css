@@ -9,3 +9,16 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.contador {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 3rem;
+  font-weight: bold;
+  background: lightgrey;
+  padding: 20px;
+  border-radius: 15px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
